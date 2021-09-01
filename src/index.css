@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.home{
+  background-image: url(./resources/images/ass7cake1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+ height: 600px;
+position: relative;
+text-align: center;
+
+
+}
+
+.about{
+  background-image: url(./resources/images/ass7cake2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+ height: 600px;
+position: relative;
+background-attachment: fixed;
+text-align: center;
+
+
+}
+
+.info{
+  background-image: url(./resources/images/ass7cake3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+ height: 600px;
+position: relative;
+background-attachment: fixed;
+text-align: center;
+color: whitesmoke;
+
+}
+.contact{
+  background-image: url(./resources/images/ass7cake4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+ height: 600px;
+position: relative;
+background-attachment: fixed;
+text-align: center;
+color: whitesmoke;
+
+}
